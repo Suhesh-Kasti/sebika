@@ -7,12 +7,15 @@
     <div class="row">
       <div class="col-lg-10 mx-auto">
         <h1 class="text-white font-secondary">{{ .title | safeHTML }}</h1>
+      </div>
+ <div class="col-lg-10 mx-auto">
             {{ if .button.enable }}
               {{ with .button }}
-                  <a href="{{ .URL | absURL }}" class="btn btn-primary w-50" download> {{.label}} </a>
+                  <a href="{{ .URL | absURL }}" class="btn btn-primary w-100" download> {{.label}} </a>
               {{ end }}
             {{ end }}
       </div>
+
     </div>
   </div>
   <div class="layer-bg w-100">
