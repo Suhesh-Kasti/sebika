@@ -1,13 +1,14 @@
 ---
-title: "Artwork Design"
-date: 2019-05-12T12:14:34+06:00
-image: "images/portfolio/item-7.png"
-client: "John Doe"
-project_url : "https://themefisher.com/"
-categories: ["branding"]
-description: "This is meta description."
+title: "Optical Boutique Redesign"
+date: 2025-08-22
+image: "images/portfolio/optometry-project-9.jpg"
+client: "Elegance Opticals"
+project_url: "#"
+categories: ["optical boutique", "store redesign"]
+description: "Revitalized the optical boutique, creating a modern and inviting space that enhances the overall customer experience, combining aesthetics with functionality."
 draft: false
 ---
+
 
 #### Project Requirements
 

@@ -1,13 +1,14 @@
 ---
-title: "Artwork Design"
-date: 2019-05-12T12:14:34+06:00
-image: "images/portfolio/item-3.png"
-client: "John Doe"
-project_url : "https://themefisher.com/"
-categories: ["illustration","development"]
-description: "This is meta description."
+title: "Innovative Contact Lens Trial"
+date: 2025-06-10
+image: "images/portfolio/optometry-project-8.jpg"
+client: "VisionTech Solutions"
+project_url: "#"
+categories: ["contact lens research", "vision technology"]
+description: "Conducted a trial for innovative contact lenses, focusing on comfort, advanced optics, and extended wear benefits, contributing to the evolution of contact lens technology."
 draft: false
 ---
+
 
 #### Project Requirements
 

@@ -1,13 +1,14 @@
 ---
-title: "Artwork Design"
-date: 2019-05-12T12:14:34+06:00
-image: "images/portfolio/item-3.png"
-client: "John Doe"
-project_url : "https://themefisher.com/"
-categories: ["illustration"]
-description: "This is meta description."
+title: "Children's Vision Care Initiative"
+date: 2024-05-15
+image: "images/portfolio/item-3.jpg"
+client: "BrightEyes Elementary School"
+project_url: "#"
+categories: ["pediatric optometry", "community outreach"]
+description: "Implemented a specialized vision care program for school children, focusing on early detection of visual issues and promoting eye health education."
 draft: false
 ---
+
 
 #### Project Requirements
 

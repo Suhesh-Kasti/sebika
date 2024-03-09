@@ -1,13 +1,15 @@
 ---
-title: "Artwork Design"
-date: 2019-05-12T12:14:34+06:00
-image: "images/portfolio/item-2.png"
-client: "John Doe"
-project_url : "https://themefisher.com/"
-categories: ["branding"]
-description: "This is meta description."
+title: "Myopia Control Program"
+date: 2024-09-01
+image: "images/portfolio/item-2.jpg"
+client: "VisionCare Solutions"
+project_url: "#"
+categories: ["myopia control", "innovative treatments"]
+description: "Implemented a comprehensive program to control and manage myopia progression in children and young adults through advanced optical solutions and lifestyle interventions."
 draft: false
 ---
+
+
 
 #### Project Requirements
 

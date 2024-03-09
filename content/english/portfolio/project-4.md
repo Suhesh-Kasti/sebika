@@ -1,13 +1,14 @@
 ---
-title: "Artwork Design"
-date: 2019-05-12T12:14:34+06:00
-image: "images/portfolio/item-5.png"
-client: "John Doe"
-project_url : "https://themefisher.com/"
-categories: ["design"]
-description: "This is meta description."
+title: "Senior Eye Wellness Symposium"
+date: 2024-07-20
+image: "images/portfolio/item-4.jpg"
+client: "Golden Age Senior Center"
+project_url: "#"
+categories: ["senior eye care", "educational event"]
+description: "Organized a wellness symposium addressing age-related eye concerns, providing seniors with valuable insights into maintaining clear vision in their golden years."
 draft: false
 ---
+
 
 #### Project Requirements
 

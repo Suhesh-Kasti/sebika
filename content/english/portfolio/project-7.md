@@ -1,13 +1,14 @@
 ---
-title: "Artwork Design"
-date: 2019-05-12T12:14:34+06:00
-image: "images/portfolio/item-1.png"
-client: "John Doe"
-project_url : "https://themefisher.com/"
-categories: ["branding"]
-description: "This is meta description."
+title: "Sports Vision Enhancement Program"
+date: 2025-04-28
+image: "images/portfolio/optometry-project-7.jpg"
+client: "SportsFit Academy"
+project_url: "#"
+categories: ["sports vision", "athletic performance"]
+description: "Developed a specialized vision training program for athletes, enhancing visual skills crucial for optimal performance in sports and physical activities."
 draft: false
 ---
+
 
 #### Project Requirements
 

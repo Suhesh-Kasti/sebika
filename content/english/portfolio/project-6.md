@@ -1,13 +1,14 @@
 ---
-title: "Artwork Design"
-date: 2019-05-12T12:14:34+06:00
-image: "images/portfolio/item-6.png"
-client: "John Doe"
-project_url : "https://themefisher.com/"
-categories: ["design"]
-description: "This is meta description."
+title: "Community Eye Health Mobile Clinic"
+date: 2025-02-12
+image: "images/portfolio/optometry-project-6.jpg"
+client: "Local Health Initiative"
+project_url: "#"
+categories: ["mobile eye clinic", "rural outreach"]
+description: "Initiated a mobile eye clinic to reach remote communities, offering free eye examinations, distributing glasses, and raising awareness about basic eye care."
 draft: false
 ---
+
 
 #### Project Requirements
 
