@@ -131,26 +131,6 @@ logo = "images/clients-logo/client-logo-4.png"
 URL = "http://examplesite.com"
 logo = "images/clients-logo/client-logo-5.png"
 
-[[logo_slider]]
-URL = "#"
-logo = "images/clients-logo/client-logo-1.png"
-
-[[logo_slider]]
-URL = "http://examplesite.com"
-logo = "images/clients-logo/client-logo-2.png"
-
-[[logo_slider]]
-URL = "#"
-logo = "images/clients-logo/client-logo-3.png"
-
-[[logo_slider]]
-URL = "http://examplesite.com"
-logo = "images/clients-logo/client-logo-4.png"
-
-[[logo_slider]]
-URL = "#"
-logo = "images/clients-logo/client-logo-5.png"
-
 ############################# social site ########################
 [[social]]
 icon = "ti-facebook" # themify icon https =themify.me/themify-icons

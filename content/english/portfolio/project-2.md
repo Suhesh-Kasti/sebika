@@ -1,15 +1,13 @@
 ---
 title: "Myopia Control Program"
-date: 2024-09-01
-image: "images/portfolio/item-2.jpg"
+date: 2023-09-01
+image: "images/portfolio/item-2.png"
 client: "VisionCare Solutions"
-project_url: "#"
+project_url: "https://optihealthfoundation.org/"
 categories: ["myopia control", "innovative treatments"]
 description: "Implemented a comprehensive program to control and manage myopia progression in children and young adults through advanced optical solutions and lifestyle interventions."
 draft: false
 ---
-
-
 
 #### Project Requirements
 

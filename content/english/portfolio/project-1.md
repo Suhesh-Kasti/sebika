@@ -1,8 +1,7 @@
-
 ---
 title: "Vision Enhancement Program"
 date: 2024-03-09
-image: "images/portfolio/item-1.jpg"
+image: "images/portfolio/item-1.png"
 client: "OptiHealth Foundation"
 project_url: "https://optihealthfoundation.org/"
 categories: ["optometry", "vision enhancement"]
@@ -42,6 +41,5 @@ Our commitment to improving eye health continues, and we plan to expand the Visi
 
 For more information about the Vision Enhancement Program, please visit [OptiHealth Foundation](https://optihealthfoundation.org/).
 
----
 
 
